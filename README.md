@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Arnav 👋
 
-<!--
-**arnav1109/arnav1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st-year Electronics and Computer Engineering student exploring software development, problem solving, and computer science fundamentals.
 
-Here are some ideas to get you started:
+Currently learning:
+- Python
+- JavaScript
+- C++
+- Data structures and algorithms
+- Git & GitHub
+- Web development basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+- Software development
+- Problem solving
+- Building practical tools
+- Learning how systems work
+
+Goals:
+To improve my coding skills, build real projects, and grow into a strong software-focused engineer.
+
+Connect:
+- Email: arnavrathod633@gmail.com
